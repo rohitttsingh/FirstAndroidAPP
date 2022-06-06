@@ -18,6 +18,13 @@
         android:padding="20dp"
         android:text="Login Page" />
 
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="267dp"
+        android:layout_height="193dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/rohitimage" />
+
     <EditText
         android:id="@+id/name"
         android:layout_width="match_parent"
