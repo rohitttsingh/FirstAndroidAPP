@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
                 ///
                 startActivity(new Intent(MainActivity.this,RohitsActivity.class));
 
-                tv.setText("Welcome "+ed.getText());
+                tv.setText("Welcome you "+ed.getText());
             }
         });
 
